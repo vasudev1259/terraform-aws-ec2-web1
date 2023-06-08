@@ -22,7 +22,7 @@ resource "aws_security_group" "main" {
     cidr_blocks = ["0.0.0.0/0"]
   }
 }
-root@ip-172-31-5-178:~/main/terraform-aws-ec2-webserver# cat variable.tf
+
 variable "ami" {
 type = string
 default = "ami-0f5ee92e2d63afc18"
