@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"server","Source":"git::https://github.com/CloudSihmar/terraform-aws-ec2-webserver.git","Dir":".terraform/modules/server"}]}
